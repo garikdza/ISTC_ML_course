@@ -107,8 +107,9 @@ venv.bak/
 DataSets/
 
 .ipynb_checkpoints/
-mnist.pkl/
-t10k-images-idx3-ubyte.gz1.65/
-t10k-labels-idx1-ubyte.gz4.54/
-train-images-idx3-ubyte.gz1.43/
-train-labels-idx1-ubyte.gz/ 
+/mnist.pkl/
+/t10k-images-idx3-ubyte.gz1.65/
+/t10k-labels-idx1-ubyte.gz4.54/
+/train-images-idx3-ubyte.gz1.43/
+/train-labels-idx1-ubyte.gz/ 
+/graphs/
