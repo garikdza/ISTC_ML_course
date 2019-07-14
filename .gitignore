@@ -113,3 +113,5 @@ DataSets/
 /train-images-idx3-ubyte.gz1.43/
 /train-labels-idx1-ubyte.gz/ 
 /graphs/
+Deep_Learning/CNNs/My_first_model.h5
+
