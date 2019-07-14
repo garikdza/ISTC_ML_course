@@ -107,11 +107,11 @@ venv.bak/
 DataSets/
 
 .ipynb_checkpoints/
-/mnist.pkl/
-/t10k-images-idx3-ubyte.gz1.65/
-/t10k-labels-idx1-ubyte.gz4.54/
-/train-images-idx3-ubyte.gz1.43/
-/train-labels-idx1-ubyte.gz/ 
-/graphs/
+Deep_Learning/Neural_Networks/mnist.pkl/
+Deep_Learning/Neural_Networks/t10k-images-idx3-ubyte.gz1.65/
+Deep_Learning/Neural_Networks/t10k-labels-idx1-ubyte.gz4.54/
+Deep_Learning/Neural_networks/train-images-idx3-ubyte.gz1.43/
+Deep_Learning/Neural_Networks/train-labels-idx1-ubyte.gz/ 
+Deep_Learning/Tensorflow/graphs/
 Deep_Learning/CNNs/My_first_model.h5
 Deep_Learning/CNNs/my_model_checkpoint.h5
