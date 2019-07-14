@@ -114,4 +114,4 @@ DataSets/
 /train-labels-idx1-ubyte.gz/ 
 /graphs/
 Deep_Learning/CNNs/My_first_model.h5
-
+Deep_Learning/CNNs/my_model_checkpoint.h5
